@@ -22,21 +22,22 @@
 		border: 1px solid black;
 		float: left;
 		position: relative;
-		
+
 	}
 	h3{
 		position: absolute;
 		top: -22px;
 		right: 0;
 		background-color: black;
-		width: 190px;
+		width: 105px;
 		height: 30px;
 		padding-left: 5px;
+		text-align: center;
 
 	}
 
-	
-	
+
+
 	}
 	@media (min-width: 768px) and (max-width: 991px) {
 	#p1, #p2 {
@@ -71,9 +72,10 @@
 		top: -22px;
 		right: 0;
 		background-color: black;
-		width: 190px;
+		width: 90px;
 		height: 30px;
 		padding-left: 5px;
+		text-align: center;
 
 	}
 
@@ -89,7 +91,7 @@
 		background-color: #8F00BD;
 		border: 1px solid black;
 		position: relative;
-		
+
 	}
 
 	h3{
@@ -100,6 +102,7 @@
 		width: 190px;
 		height: 30px;
 		padding-left: 5px;
+		text-align: center;
 
 	}
 
